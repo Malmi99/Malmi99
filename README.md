@@ -15,9 +15,9 @@
 
 
 
--
+
 - 📱 MOVIE REGISTRATION MOBILE APP
--This is an android application which allows user to register movie, add favourites,Edit changes,search and rate. 
+- This is an android application which allows user to register movie, add favourites,Edit changes,search and rate. 
 -Used Java and SQLite database.
 ![image](https://user-images.githubusercontent.com/66506881/120940242-eab92e80-c739-11eb-93d5-61bbb049cb74.png)
 
