@@ -21,7 +21,7 @@ I'm a Fullstack Software Engineer with around **4 years of experience** designin
 - 🏗️ Industry experience across **healthcare, telecom, food-tech, and US enterprise SaaS**
 - ☁️ Hands-on with **Docker, Kubernetes, Jenkins CI/CD**, and microservices architecture
 - 📖 Published research at **ICSOAC-23** — AI-based crop recommendation using CNN (VGG16)
-- 🌱 Always curious — currently learning German 🇩🇪 and exploring system design at scale
+- 🌱 Always curious — currently learning 
 - ☕ Coffee, photography, and music keep me running outside of code
 
 ---
