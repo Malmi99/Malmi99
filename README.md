@@ -4,7 +4,6 @@
 
 ### Fullstack Software Engineer · Java · Spring Boot · React · TypeScript
 
-🏥 Building healthcare software at **Care Systems Inc.** &nbsp;·&nbsp; 🌍 Based in Sri Lanka &nbsp;·&nbsp; ✈️ Open to international opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malmii)
 [![Email](https://img.shields.io/badge/Email-malmiimasha7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:malmiimasha7@gmail.com)
