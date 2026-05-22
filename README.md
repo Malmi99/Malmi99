@@ -99,8 +99,6 @@ I'm a Fullstack Software Engineer with around **4 years of experience** designin
 
 ### 📫 Let's Connect
 
-I'm open to fullstack and backend engineering opportunities — particularly with **internationally-minded teams** building healthcare, fintech, or enterprise SaaS products.
-
 [![Email](https://img.shields.io/badge/Email_Me-malmiimasha7@gmail.com-0F3D5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malmiimasha7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F3D5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malmii)
 
